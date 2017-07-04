@@ -1,4 +1,12 @@
-# Angular QuickStart Source
+# Angular Tour of Heroes
+
+[Tutorial: Tour of Heroes](https://angular.io/tutorial)
+
+The grand plan for this tutorial is to build an app that helps a staffing agency manage its stable of heroes.
+
+The Tour of Heroes app covers the core fundamentals of Angular. You'll build a basic app that has many of the features you'd expect to find in a full-blown, data-driven app: acquiring and displaying a list of heroes, editing a selected hero's detail, and navigating among different views of heroic data.
+
+## Angular QuickStart Source
 [![Build Status][travis-badge]][travis-badge-url]
 
 This repository holds the TypeScript source code of the [angular.io quickstart](https://angular.io/docs/ts/latest/quickstart.html),
